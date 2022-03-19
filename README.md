@@ -8,6 +8,7 @@ I wrote this as practice as well as to remind myself to drink water.
   - https://packages.ubuntu.com/impish/libnotify-bin
 
 **Using WANR**
+
 Download the files in the repository and set a cron job pointing to the .sh file
 
 **Upcoming Changes**
